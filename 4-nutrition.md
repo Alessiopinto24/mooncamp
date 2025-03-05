@@ -3,17 +3,18 @@
 
 ---
 
-### Activité : Alimentation d'un astronaute sur la Lune
+### Activité : Familiarisation avec les différentes parties d'une plante et défis de l'agriculture lunaire
 
 **Public:** Élèves de 8 à 12 ans  
 **Durée:** 2 heures  
-**Matières:** Biologie, Diététique 
+**Matières:** Biologie, Botanique, Diététique 
 
 ## Vue d'ensemble de l'activité
 
 ### Résumé
 
-Dans cette activité, les élèves découvriront
+Dans cette activité, les élèves découvriront l'importance des plantes dans l'alimentation d'un astronaute autonome
+ (plantes moins coûteuses a produire que prot animales; challenge de l'agriculture sur la Lune, familiarisation avec les différentes parties d'une plante et identification des parties comestibles,[...])
 
 ### Objectifs d'apprentissage
 
